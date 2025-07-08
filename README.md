@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 *"Turning `segfaults` into `success` since [Piscine Year]."*  
 
+Skills: C/C++/PYTHON/BASH/SHELL/PHP/HTML/CSS
 ![42 Badge](https://img.shields.io/badge/42-Common_Core-blue?logo=42)
 
 
