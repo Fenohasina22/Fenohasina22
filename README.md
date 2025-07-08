@@ -1,8 +1,4 @@
 <div align="center">
-  
-  <!-- Bannière animée style arcade -->
-<img src="https://i.imgur.com/XrJjQ9C.gif" width="700" alt="Cyberpunk Neon Banner">
-  <!-- Titre avec effet pixel -->
  <div align="center">
   
   # 🕹️ `>_` HELLO WORLD `</>` 💻
