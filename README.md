@@ -18,12 +18,5 @@
 
   <!-- Inventaire de compétences style RPG -->
   ### 🎮 SKILL INVENTORY [C/BASH/C++/PHP/HTML/CSS/PYTHON]
-  ```diff
-  # Language Mastery
-  + [+++  ] C           [INTERMEDIATE]
-  + [++   ] C++         [APPRENTICE]
-  + [++   ] Python      [APPRENTICE]
-  + [++   ] Bash        [APPRENTICE]
-  + [++   ] PHP         [APPRENTICE]
 
 
