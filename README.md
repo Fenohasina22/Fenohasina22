@@ -1,12 +1,13 @@
 <div align="center">
   
   <!-- Bannière animée style arcade -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ0d2VjZGJtY2JvbmVqZ2Y4eHd0dTByY2J6eGJ6eWJ5bW1zYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orieS4jfHJaKwkeli/giphy.gif" width="700">
-
+<img src="https://i.imgur.com/XrJjQ9C.gif" width="700" alt="Cyberpunk Neon Banner">
   <!-- Titre avec effet pixel -->
-  <h1>
-    <img src="https://fontmeme.com/permalink/240706/3b0f28e5c5a5e8c5e2e4e6e8e8e8e8e8.png" alt="arcade-font" width="450">
-  </h1>
+ <div align="center">
+  
+  # 🕹️ `>_` HELLO WORLD `</>` 💻
+  ### ⚡️ *SPEEDRUNNER* ⚡️
+</div>
 
   <!-- Barre de statut style HUD -->
   [![Level](https://img.shields.io/badge/LEVEL_42-ELITE-blueviolet?style=for-the-badge&logo=powerpages)](https://github.com/Fenohasina22)
