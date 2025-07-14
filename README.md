@@ -1,31 +1,30 @@
 <div align="center">
+
+# <img src="https://media.giphy.com/media/jIgXf4hgbHCeK7GmWh/giphy.gif" width="30px"> `>_` Terminal Profile `</>` <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30px">
+
+###  | Competitive Programmer |
+
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat&logo=github)
+![Years](https://badges.strrl.dev/years/Fenohasina22?color=00aa00&style=flat)
+![Repos](https://badges.strrl.dev/repos/Fenohasina22?color=00aa00&style=flat)
+
+</div>
+
+## 📊 Development Stats
+
+<div align="center">
   
-  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> `>_` TERMINAL PROFILE `</>` <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fenohasina22&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=ffff00&include_all_commits=true)](https://github.com/Fenohasina22)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenohasina22&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&langs_count=6)](https://github.com/Fenohasina22)
 
-  ### ⚡️ *CYBERPUNK DEVELOPER* ⚡️
-  #### 🔥 Competitive Coder | 🚀 Open Source Enthusiast | 🛠️ System Hacker
+</div>
 
-![Matrix](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5kY3V0Y3NxZ2F4eGx6bWZ5dWY3dWl6eHZ1b2R4eGJ1N3h0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+## 🛠️ Technical Skills
 
-```bash
-# SYSTEM DIAGNOSTICS RUNNING...
-$> whoami
-🧑‍💻 Fenohasina22 | Full-Stack Speedrunner
-$> uname -a
-Linux DevStation 6.5.0-cyberpunk #1 SMP PREEMPT_DYNAMIC
-$> uptime
-Active 2+ years in coding universe
-
-# CORE COMPETENCIES [2025 EDITION] #
-+ System Programming  [████▌    ] C/C++ 60%  #FF2D00
-! Scripting           [███▌     ] Python 30% #00FF88
-- Shell Magic         [██▌      ] zsh/bash 40% #FFDD00
-+ Web Frontend        [████▌    ] HTML/CSS 50% #0095FF
-! Web Backend         [███      ] PHP 30% #AA00FF
-- Data                [█▌       ] MySQL 20% #00FFFF
-
-# 💾 SYSTEM STATUS
-CPU  ████████████████████░░░ 85% [GCC COMPILING]
-RAM  ████████████░░░░░░░░░░░ 55% [VMs RUNNING]
-GPU  █████░░░░░░░░░░░░░░░░░░ 25% [TERMINAL ACTIVE]
-SSD  ██████████████░░░░░░░░░ 70% [PROJECTS STORED]
+```text
+C/C++        ██████████░░░░░░░░░░ 60%   [System Programming]
+Python       ██████░░░░░░░░░░░░░░ 30%   [Scripting/Automation]
+Bash/Zsh     █████░░░░░░░░░░░░░░░ 40%   [Shell Scripting]
+HTML/CSS     ███████░░░░░░░░░░░░░ 50%   [Web Development]
+PHP          ████░░░░░░░░░░░░░░░░ 30%   [Backend]
+MySQL        ██░░░░░░░░░░░░░░░░░░ 20%   [Databases]
