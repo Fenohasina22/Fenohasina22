@@ -11,9 +11,9 @@
 
 ---
 
-<!-- Animated typing effect -->
+<!-- New animated (gradient flicker) quote -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2EC4E6&center=true&width=435&lines=Code+the+life+u+want+and+live+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1500&color=2ec4e6&center=true&width=600&lines=Code+the+life+u+want+and+live+it.;Dream+Big%2C+Code+Bigger.;Keep+Learning+%F0%9F%92%AB;From+System+Programming+to+Cybersecurity+%E2%9A%A1%EF%B8%8F" alt="Animated Quote" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=132743&center=true&vCenter=true&width=800&lines=Languages+%26+Tools+I+Love+%F0%9F%92%BB%F0%9F%94%A5" alt="Languages & Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=132743&center=true&vCenter=true&width=800&lines=Languages+%26+Tools+I+Love+%F0%9F%92%BB%F0%9F%94%A5" alt="Languages & Tools" />
 </p>
 
 <p align="center">
@@ -30,12 +30,14 @@
   <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/></a>
   <a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP"/></a>
   <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://skillicons.dev/icons?i=bash" width="48" alt="Bash"/></a>
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EC4E6&center=true&vCenter=true&width=800&lines=+C+%7C+C%2B%2B+%7C+Python+%7C+PHP+%7C+Bash+%7C+HTML5+%7C+CSS3" alt="Languages List" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2EC4E6&center=true&vCenter=true&width=800&lines=C+%7C+C%2B%2B+%7C+Python+%7C+PHP+%7C+Bash+%7C+Git+%7C+GitHub+%7C+HTML5+%7C+CSS3" alt="Languages List" />
 </p>
 
 ---
@@ -68,6 +70,7 @@
   <img src="https://img.shields.io/badge/42%20Student-132743?style=for-the-badge&logo=42&logoColor=white" alt="42 Badge"/>
   <img src="https://img.shields.io/badge/System%20Programming-2ec4e6?style=for-the-badge&logoColor=white" alt="System Programming"/>
   <img src="https://img.shields.io/badge/Cybersecurity-205375?style=for-the-badge&logoColor=white" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-24292f?style=for-the-badge&logo=git&logoColor=white" alt="Git & GitHub"/>
   <img src="https://img.shields.io/badge/Book%20Enthusiast-22304a?style=for-the-badge&logo=bookstack&logoColor=white" alt="Book Enthusiast"/>
   <img src="https://img.shields.io/badge/Always%20Learning-539ddb?style=for-the-badge&logoColor=white" alt="Always Learning"/>
 </p>
@@ -81,6 +84,7 @@
 - 💬 Ask me about anything code related!
 - 🎵 Music fuels my coding sessions  
 - 🌍 Based in Madagascar
+- 🟦 Skilled with **Git** & **GitHub** for version control & collaboration
 
 ---
 
