@@ -87,7 +87,7 @@
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:fenohasina.rakotoarisoa@gmail.com"><img src="https://img.shields.io/badge/Email-2ec4e6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:fenohasinasamy@gmail.com"><img src="https://img.shields.io/badge/Email-2ec4e6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <!-- <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
   <br>
   <img src="https://raw.githubusercontent.com/Fenohasina22/Fenohasina22/main/assets/bounce-arrow.gif" width="30"/>
