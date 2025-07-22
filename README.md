@@ -24,20 +24,46 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=132743&center=true&vCenter=true&width=800&lines=Languages+%26+Tools+I+Love+%F0%9F%92%BB%F0%9F%94%A5" alt="Languages & Tools" />
 </p>
 
+<!-- Separate languages -->
+#### 🗣️ Languages
+
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://skillicons.dev/icons?i=c" width="48" alt="C"/></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"/></a>
   <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/></a>
   <a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP"/></a>
+  <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/></a>
   <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://skillicons.dev/icons?i=bash" width="48" alt="Bash"/></a>
-  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/></a>
-  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2EC4E6&center=true&vCenter=true&width=800&lines=C+%7C+C%2B%2B+%7C+Python+%7C+PHP+%7C+Bash+%7C+Git+%7C+GitHub+%7C+HTML5+%7C+CSS3" alt="Languages List" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2EC4E6&center=true&vCenter=true&width=800&lines=C+%7C+C%2B%2B+%7C+Python+%7C+PHP+%7C+MySQL+%7C+Bash+%7C+HTML5+%7C+CSS3" alt="Languages List" />
+</p>
+
+<!-- Separate tools -->
+#### ⚙️ Tools
+
+<p align="center">
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
+  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=132743&center=true&vCenter=true&width=800&lines=Git+%7C+GitHub+%7C+VS+Code" alt="Tools List" />
+</p>
+
+---
+
+### 🖥️ Operating Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux" width="70" alt="Windows & Linux"/>
+</p>
+<p align="center">
+  <b>🚀 Windows • Linux</b>
 </p>
 
 ---
