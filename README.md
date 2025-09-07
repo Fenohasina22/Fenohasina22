@@ -1,4 +1,3 @@
-<!-- Animated banner (waves + deep blue-cyan gradient, modern & cool, no quote) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:132743,100:2ec4e6&height=180&section=header&fontSize=38&fontAlign=50&fontColor=ffffff" alt="Animated Banner"/>
 </p>
@@ -11,7 +10,6 @@
 
 ---
 
-<!-- New animated (gradient flicker) quote -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1500&color=2ec4e6&center=true&width=600&lines=Code+the+life+u+want+and+live+it.;Dream+Big%2C+Code+Bigger.;Keep+Learning+%F0%9F%92%AB;From+System+Programming+to+Cybersecurity+%E2%9A%A1%EF%B8%8F" alt="Animated Quote" />
 </p>
@@ -24,7 +22,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=132743&center=true&vCenter=true&width=800&lines=Languages+%26+Tools+I+Love+%F0%9F%92%BB%F0%9F%94%A5" alt="Languages & Tools" />
 </p>
 
-<!-- Separate languages -->
 #### 🗣️ Languages
 
 <p align="center">
@@ -42,17 +39,19 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2EC4E6&center=true&vCenter=true&width=800&lines=C+%7C+C%2B%2B+%7C+Python+%7C+PHP+%7C+MySQL+%7C+Bash+%7C+HTML5+%7C+CSS3" alt="Languages List" />
 </p>
 
-<!-- Separate tools -->
-#### ⚙️ Tools
+#### ⚙️ Skills & Platforms
 
 <p align="center">
   <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/></a>
   <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
   <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/></a>
+  <a href="https://www.codingame.com/profile/f4d90395db3cdfe304314f02332d8a814632146" title="CodinGame">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/CodinGame-logo.svg" width="48" alt="CodinGame" style="background: #fff; border-radius: 8px; padding: 2px;" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=132743&center=true&vCenter=true&width=800&lines=Git+%7C+GitHub+%7C+VS+Code" alt="Tools List" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=132743&center=true&vCenter=true&width=800&lines=Git+%7C+GitHub+%7C+VS+Code+%7C+CodinGame" alt="Skills List" />
 </p>
 
 ---
@@ -126,12 +125,10 @@
 
 ---
 
-<!-- Visitor badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Fenohasina22&style=flat-square&color=2ec4e6" alt="Profile views" />
 </p>
 
-<!-- Cool animated divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:132743,100:2ec4e6&height=70&section=footer"/>
 </p>
