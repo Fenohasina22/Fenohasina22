@@ -46,7 +46,7 @@
   <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
   <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/></a>
   <a href="https://www.codingame.com/profile/f4d90395db3cdfe304314f02332d8a814632146" title="CodinGame">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/CodinGame-logo.svg" width="48" alt="CodinGame" style="background: #fff; border-radius: 8px; padding: 2px;" />
+    <img src="https://codingame.readthedocs.io/en/stable/_images/codingame.png" width="48" alt="CodinGame" style="background: #fff; border-radius: 8px; padding: 2px;" />
   </a>
 </p>
 
