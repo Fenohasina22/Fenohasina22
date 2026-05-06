@@ -5,16 +5,14 @@
   I'm actually a student at 42 school.<br>
   From this day on I've learned and developped many things, and it's fun. <br>
   I have coded a lot of project from scratch and found out C/C++ are super cool, those are my favorite languages.<br>
-  Did a lot of overtime because of project but I'm still functional ig XD.
+  Did a lot of overtime because of project but I'm still functional.
 </p>
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,docker,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,php,docker,mysql,git,vscode,linux,windows" />
 </p>
-
-<br>
 
 ## GitHub Stats
 
