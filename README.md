@@ -1,11 +1,12 @@
 <h1 align="left">Fenohasina</h1>
 
 <p align="left">
-  <b>System Programming Student</b><br>
-  I'm a 42 student ready for new projects, and challenges. <br>
-  The more complex the project is, the more it's cool.
+  <b>Student of life ...</b><br>
+  I'm actually a student at 42 school.<br>
+  From this day on I've learned and developped many things, and it's fun. <br>
+  I have coded a lot of project from scratch and found out C/C++ are super cool, those are my favorite languages.<br>
+  Did a lot of overtime because of project but I'm still functional ig XD.
 </p>
-<br>
 
 ## Tech Stack
 
