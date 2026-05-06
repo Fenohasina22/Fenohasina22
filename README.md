@@ -11,7 +11,7 @@
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,php,docker,mysql,git,github,vscode,ubuntu,debian,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,php,docker,mysql,git,github,vscode,linux,windows" />
 </p>
 
 ## GitHub Stats
