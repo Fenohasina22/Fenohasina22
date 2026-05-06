@@ -1,5 +1,5 @@
-<h1 align="left">Fenohasina</h1>
-
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/f05ca252-3255-465d-bb0a-be9174566947" />
+<br>
 <p align="left">
   <b>Student of life ...</b><br>
   I'm actually a student at 42 school.<br>
