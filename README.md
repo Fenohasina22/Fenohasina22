@@ -17,8 +17,14 @@
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fenohasina22&theme=radical&hide_border=true&border_radius=10&background=0D1117&stroke=2ec4e6&ring=2ec4e6&fire=ff6e40&currStreakLabel=2ec4e6" height="220" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fenohasina22&theme=radical&hide_border=true&border_radius=10&background=0D1117&stroke=2ec4e6&ring=2ec4e6&fire=ff6e40&currStreakLab[...]
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fenohasina22&layout=compact&theme=radical&hide_border=true&border_radius=10&background=0D1117" height="220" />
+</p>
+
+### Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fenohasina22&layout=donut&theme=radical&hide_border=true&border_radius=10&background=0D1117" height="220" />
 </p>
 
 ## Contact
