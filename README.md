@@ -16,10 +16,16 @@
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fenohasina22&theme=radical&hide_border=true&border_radius=10&background=0D1117&stroke=2ec4e6&ring=2ec4e6&fire=ff6e40&currStreakLab[...]
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fenohasina22&layout=donut&theme=radical&hide_border=true&border_radius=10&background=0D1117" height="220" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Fenohasina22&theme=radical&hide_border=true&border_radius=10&background=0D1117&stroke=2ec4e6&ring=2ec4e6&fire=ff6e40&currStreakLabel=2ec4e6" height="180" />
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fenohasina22&theme=redical&hide_border=true&bg_color=0D1117&line=2ec4e6&point=ff6e40" height="180" />
+    </td>
+  </tr>
+</table>
 
 ## Contact
 
